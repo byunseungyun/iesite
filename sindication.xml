@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://webmastertool.naver.com">
+  <id>http://iesite.xyz</id>
+  <title><![CDATA[ 강북구철거- ]]></title>
+  <author>
+    <name>동명건설</name>
+  </author>
+
+  <updated>2016-09-09T16:04:25+09:00</updated>
+  <link rel="site" href="http://iesite.xyz" />
+
+  
+  <entry>
+    <id>http://iesite.xyz/#about</id>
+    <title><![CDATA[ 저희 강북구철거를 찾아주셔서 감사합니다. ]]></title>
+    <author>
+      <name>동명건설</name>
+    </author>
+    <updated>2016-09-09T16:04:25+09:00</updated>
+    <published>2016-09-09T16:04:25+09:00</published>
+    <link rel="via" href="http://iesite.xyz/#about" />
+    <content type="html"><![CDATA[  &lt;p&gt;저희 강북구철거는 사람 사는 생활 속에서 보이지 않는 곳까지 불철주야로 철거업무를 하고 있습니다.&lt;/p&gt;&lt;br&gt; &lt;p&gt;철거,폐기물,고물,중고집기등을 동시에 진행함으로서 시공비절감으로 의뢰인의 경제적 부담을 줄이며&lt;/p&gt;&lt;br&gt; &lt;p&gt;폐기물은 분리 처리하여 양은 줄이고 고물은 유용고물을 분리 수거하여 재활용율을 높여 자원 재활용에 앞장서고 있습니다.&lt;/p&gt;&lt;br&gt;  ]]></content>
+  </entry>
+</feed>
